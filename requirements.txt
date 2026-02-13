@@ -1,0 +1,11 @@
+# Kaggle dataset download
+kaggle>=1.5.16
+
+# LSTM training
+torch>=2.0.0
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Prediction API
+fastapi>=0.100.0
+uvicorn>=0.22.0

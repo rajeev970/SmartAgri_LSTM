@@ -1,0 +1,17 @@
+# Data and models (large / generated)
+data/models/
+data/crop_prices.db
+data/*.csv
+data/kaggle_mandi/
+data/raw/
+frontend/public/crop_prices.json
+
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
